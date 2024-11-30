@@ -15,6 +15,6 @@ st.markdown("""
 # Căn lề dòng chữ ở trung tâm
 st.markdown("""
     <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <h1 style="color: white;">Dòng chữ của bạn</h1>
+        <h1 style="color: white;">Chị Hà Thối</h1>
     </div>
     """, unsafe_allow_html=True)
